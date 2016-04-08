@@ -15,6 +15,8 @@ public class ClaseXxIZAGA20xX {
     public ClaseXxIZAGA20xX ()
     {
         System.out.print("Hola me llamo XxIZAGA20xX");
+        System.out.print("Hola me llamo DaNy");
+                
     }
     
 }
