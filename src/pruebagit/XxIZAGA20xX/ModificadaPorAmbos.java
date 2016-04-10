@@ -11,9 +11,9 @@ package pruebagit.XxIZAGA20xX;
  */
 public class ModificadaPorAmbos {
     
-public ModificadaPorAmbos ()
-    {
-        System.out.print("Escrito por XxIZAGA20xX");
+    public static int sumar(int x, int y){
+           int z;
+           z = x + y;
+           return z;
     }
-    
 }
